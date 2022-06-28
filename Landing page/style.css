@@ -1,0 +1,55 @@
+*
+{
+padding:0;
+box-sizing:borderbox;
+margin:0;
+outline:none;
+border:none;
+text-decoration:none;
+}
+body
+{
+background-position:center;
+background-size:cover;
+font-family:sans-serif;
+}
+
+.menu
+{
+background-color:brown;
+text-align:right;
+
+}
+.menu a
+{
+display:inline-flex;
+life-style:none;
+text-decoration:none;
+text-align:right;
+}
+
+
+.menu a
+{
+width:100px;
+margin:15px;
+padding:12px;
+color: white;
+font-size:14pt;
+text-align:right;
+
+}
+.htext,div
+{
+font-size:2em;
+font-family:times;
+color:brown;
+}
+.htext span 
+{
+color:seagreen;
+}
+.htext,div{
+position:absolute;
+top:30%;
+}
